@@ -27,6 +27,15 @@ We investigate their:
 
 ---
 
+## Structure
+
+├── modelling/ # Model architecture, training loop, data loaders │ ├── model_builder.py │ ├── trainer.py │ └── utils.py
+
+├── visualization/ # Plotting tools for loss, accuracy, gradients, derivatives │ ├── loss_plots.py │ ├── gradient_flow.py │ ├── activation_derivatives.py │ └── README.md
+
+├── presentation/ # Report, math notes, summaries (optional) │ └── activation_analysis.md
+
+├── main.ipynb # Main Colab notebook: trains all models, runs all visualizations └── README.md #
 
 ---
 
@@ -74,11 +83,12 @@ You can customize this path in `main.ipynb`.
 
 ## 📬 Contact
 
-Author : Arpitha Thippeswamy 
-Team mates :
-- Sree Aryan SP
-- Zhang Jiyayi
+**Author:** Arpitha Thippeswamy  
+**Team Members:**
+- Sree Aryan SP  
+- Zhang Jiyayi  
 - Shashank Manjunatha
+
 
 ---
 
