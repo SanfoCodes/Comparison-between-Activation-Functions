@@ -100,7 +100,7 @@ You can customize this path in `main.ipynb`.
 **Author:** Arpitha Thippeswamy  
 **Team Members:**
 - Sree Aryan SP  
-- Zhang Jiyayi  
+- Zhang Jiayi  
 - Shashank Manjunatha
 
 
