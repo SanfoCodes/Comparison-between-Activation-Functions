@@ -44,7 +44,7 @@ We investigate their:
 │   ├── activation_derivatives.py
 │   └── README.md
 │
-├── presentation/           # Report, math notes, summaries (optional)
+├── presentation/           # Report, math notes, summaries 
 │   └── activation_analysis.md
 │
 ├── main.ipynb              # Main Colab notebook: trains all models, runs all visualizations
