@@ -1,4 +1,3 @@
-# Comparison-between-activation-functions
 
 # 🔍 Comparing Activation Functions in Neural Networks
 
